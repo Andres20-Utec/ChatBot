@@ -1,0 +1,6 @@
+pip install preshed
+pip install cymem
+pip install murmurhash
+pip install thinc
+pip install -U pip setuptools wheel
+pip install spacy>=3.1.0,<3.2.0
