@@ -1,6 +1,8 @@
-pip install preshed
-pip install cymem
-pip install murmurhash
-pip install thinc
-pip install -U pip setuptools wheel
-pip install spacy>=3.1.0,<3.2.0
+preshed
+cymem
+murmurhash
+thinc
+setuptools-wheel
+spacy==3.7.4
+pydantic==2.6.4
+es_core_news_sm==3.1.0
